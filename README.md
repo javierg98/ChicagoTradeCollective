@@ -1,2 +1,2 @@
 # ForecastingWork
-Collection of data and code for stockmarket forecasting 
+Collection of data and code for stockmarket and crypto forecasting 
